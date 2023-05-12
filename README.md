@@ -14,7 +14,7 @@ You also need to create a Firebase project and enable Firestore. See the Firebas
 ## Installation
 Clone the repository:
 ```
-git clone https://github.com/your-username/nuxt-firestore-chat.git
+https://github.com/jonasnoynayfullspeed/my-chat-app.git
 ```
 
 Install the dependencies:
@@ -25,8 +25,10 @@ npm install firebase@9.0.2 @firebase/firestore@0.28.3 vuefire@latest
 Start the development server:
 ```
 npm run dev
-Open your browser and go to http://localhost:3000. You should see the chat system.
 ```
+
+Open your browser and go to http://localhost:3000. You should see the chat system.
+
 
 ## Build
 To build the chat system to Firebase hosting, follow these steps:
